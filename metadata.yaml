@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '9717'
     url: http://www.gutenberg.org/2009/agents/9717
     wikipedia: https://en.wikipedia.org/wiki/Cyrus_Cuneo
+covers:
+- cover_type: archival
+  image_path: 61141-h/images/cover.jpg
 creator:
   author:
     agent_name: Carling, John R.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40910
     wikipedia: https://en.wikipedia.org/wiki/John_R._Carling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61141#The-Weird-Picture
 gutenberg_issued: '2020-01-10'
 gutenberg_type: Text
 identifiers:
